@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antinf&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antinf&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antinf&theme=dark">
+<img style="" href="https://github.com/anuraghazra/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=antinf&theme=dark">
 
 ### My Skills
 <p>
