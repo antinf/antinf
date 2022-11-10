@@ -17,5 +17,4 @@
 ### Learning
 <p>
 <img alt="React" height=40rem width=40rem src="https://api.iconify.design/logos/react.svg?download=1"/>
-<img alt="Rust" height=40rem width=40rem src="https://api.iconify.design/vscode-icons/file-type-rust.svg?download=1"/>
 </p>
